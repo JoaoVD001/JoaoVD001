@@ -17,7 +17,7 @@
 const jv = {
   role:     "BI & Data Warehouse @ Volkswagen Financial Services",
   stack:    ["Qlik Sense", "Power BI", "Informatica PowerCenter", "Power Automate"],
-  dev:      ["React 19", "TypeScript", "TanStack", "Supabase", "Cloudflare Workers"],
+  dev:      ["React 19", "Next.js", "TypeScript", "Supabase", "Cloudflare Workers"],
   studying: "Tecnólogo em ADS — UNASP (Jul/2026)",
   focus:    "Transformar dados em decisões e processos manuais em automações",
 };
@@ -36,11 +36,11 @@ const jv = {
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_AI-000000?style=flat-square&logoColor=white)
 
-- Swipe de perfis estilo Tinder com match mútuo via trigger no banco
-- Chat em tempo real com Supabase Realtime + envio de fotos
-- **Lucia** — IA integrada com memória de conversa (Groq API / Llama 3.1)
-- Sistema de planos Free / Gold / Diamond com Stripe
-- Painel admin completo com moderação, analytics e gestão de academias
+- Entrada via QR code por academia + swipe de perfis estilo Tinder com match mútuo via trigger automático no banco
+- Chat em tempo real com Supabase Realtime, envio de fotos e bloqueio/denúncia pelo chat
+- **Lucia** — IA com memória de conversa integrada ao chat (Groq API / Llama 3.1 8B) com push notifications por inatividade
+- Sistema de planos Free / Gold / Diamond com Stripe (likes, matches ativos, desfazer ação, boost de perfil)
+- Painel admin completo: gestão de usuários, academias, denúncias, anúncios e analytics
 
 ---
 
@@ -50,13 +50,30 @@ const jv = {
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-- Feed de restaurantes com busca por GPS e filtros por culinária
-- Sistema de pontos e recompensas com tiers (Bronze → Prata → Ouro → Diamante)
-- Autenticação e controle de acesso por roles (cliente / dono / admin)
-- Histórico de reservas e painel de gestão para donos de restaurante
+- Feed de restaurantes em destaque com busca por GPS, CEP e filtros por culinária e localização
+- Fluxo de reserva completo com histórico de reservas ativas e controle de acesso por roles (cliente / dono / admin)
+- Sistema de pontos e recompensas com tiers progressivos: Bronze → Prata → Ouro → Diamante
+- Painel do dono com gestão de reservas em tempo real e página de detalhes com cardápio e horários
+
+---
+
+### ⚔️ [Mythara RPG](https://github.com/JoaoVD001/mythara-rpg)
+> Plataforma web para gerenciamento de campanhas e fichas de personagem de RPG de mesa
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js_v5-000000?style=flat-square&logoColor=white)
+
+- Fichas de personagem completas para **Ordem Paranormal RPG** e **D&D 5e** com todos os campos do sistema
+- Criação e gerenciamento de campanhas com convite de jogadores via link único
+- Notas de sessão por campanha e dashboard com visão geral de personagens e campanhas do usuário
+- Autenticação com NextAuth v5, validação com Zod v4, ORM Prisma com SQLite (dev) e PostgreSQL/Supabase (prod)
+- Roadmap: login social Google, mesa virtual em tempo real e suporte a Tormenta 20 e Call of Cthulhu 7e
 
 ---
 
@@ -67,10 +84,9 @@ const jv = {
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square&logoColor=white)
 
-**Telas:**
-- **Visão Geral** — KPIs executivos: 357 mil unidades, R$ 54 Bi em receita, ticket médio R$ 150,68 mil, modelo líder (Polo), evolução de vendas por ano
-- **Elétrico vs Combustão** — comparativo regional, satisfação do cliente, crescimento elétrico +48,66%, sazonalidade de vendas por modelo e mês
-- **Análise de Preços** — ranking de preço médio por modelo, inflação de +54,6% desde 2019, distribuição por categoria, preço × satisfação
+- **Visão Geral** — KPIs executivos: 357 mil unidades, R$ 54 Bi em receita, ticket médio R$ 150,68 mil, modelo líder (Polo)
+- **Elétrico vs Combustão** — comparativo regional, satisfação 9,05 vs 8,65, crescimento elétrico +48,66%, sazonalidade por modelo/mês
+- **Análise de Preços** — ranking por modelo, inflação +54,6% desde 2019, distribuição por categoria, preço × satisfação
 - **Grupo VW** — popularidade de VW, Audi, Porsche, Lamborghini e SEAT/CUPRA com índice de busca, menções sociais e engajamento digital
 
 📥 [Download do arquivo .pbix](https://1drv.ms/u/c/c8e87608aba7f421/IQDgW8XxtIPxSZnrFJFh70mpAax7Kgkl-AseldSARC46bbU?e=K4n17L)
@@ -102,10 +118,12 @@ const jv = {
 **Dev**
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_6-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Automação & Infra**

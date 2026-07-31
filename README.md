@@ -77,6 +77,20 @@ const jv = {
 
 ---
 
+### 📉 [Tech Market Pulse](https://github.com/JoaoVD001/-Tech-Market-Pulse)
+> Pipeline de dados ponta a ponta analisando demissões e contratações no setor de tecnologia (2025-2026), com foco no impacto da IA no mercado de trabalho
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+
+- Pipeline ETL completo em Python/Pandas (extract → transform → load) carregando dados tratados num PostgreSQL orquestrado via Docker Compose
+- Dashboard interativo no Metabase com 4 análises: evolução temporal de demissões, ranking por setor, faixa salarial por cargo e proporção de demissões ligadas a IA
+- Insight: 43% das demissões analisadas têm relação com adoção de IA, enquanto cargos como AI Research Scientist lideram a faixa salarial (US$ 265 mil/ano)
+
+---
+
 ### 📊 Volkswagen Dashboard — Power BI
 > Dashboard analítico com 4 telas interativas cobrindo vendas, preços e popularidade das marcas do Grupo VW no Brasil (2019–2026)
 > ⚠️ *Todos os dados utilizados são fictícios e foram gerados exclusivamente para fins acadêmicos*
@@ -112,8 +126,11 @@ const jv = {
 
 ![Qlik](https://img.shields.io/badge/Qlik_Sense-009848?style=flat-square&logo=qlik&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![Informatica](https://img.shields.io/badge/Informatica_PowerCenter-FF4D00?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Dev**
 

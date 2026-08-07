@@ -1,169 +1,80 @@
 <div align="center">
 
-# João Vitor Delfino
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=200&section=header&text=João%20Vitor%20Delfino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20Fullstack%20%7C%20Dados%20%26%20Automação&descAlignY=55&descSize=18" width="100%" />
 
-### Do dado bruto à decisão — análise, automação e desenvolvimento
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Dev+Fullstack+%7C+Dados+%26+Automa%C3%A7%C3%A3o;React+%2B+TypeScript+%2B+Python+%2B+SQL" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvdelfino)
+</div>
+
+### 🚀 Sobre mim
+
+Estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em **Business Intelligence** e **Data Warehouse**, atuando com Qlik Sense, Power Automate e Informatica PowerCenter.
+
+Também desenvolvo projetos próprios **fullstack** com React, TypeScript e Supabase — o que me dá uma visão completa entre o dado e o produto final.
+
+- 🔭 Atualmente construindo projetos com **React + TypeScript + Supabase**
+- 📊 Trabalho com **dados, automação e BI**
+- 🌱 Aprendendo mais sobre **Python** e ciência de dados
+- 💬 Fale comigo sobre dados, automação ou desenvolvimento fullstack
+
+<br>
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,supabase,postgres,kotlin,git,github,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</div>
+
+<br>
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoaoVD001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVD001&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVD001&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+<br>
+
+### 🐍 Minha atividade
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JoaoVD001/JoaoVD001/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
+
+<br>
+
+### 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitordelfino2005@gmail.com)
 
 </div>
 
----
-
-## 👨‍💻 Sobre mim
-
-```ts
-const jv = {
-  role:     "BI & Data Warehouse @ Volkswagen Financial Services",
-  stack:    ["Qlik Sense", "Power BI", "Informatica PowerCenter", "Power Automate"],
-  dev:      ["React 19", "Next.js", "TypeScript", "Supabase", "Cloudflare Workers"],
-  studying: "Tecnólogo em ADS — UNASP (Jul/2026)",
-  focus:    "Transformar dados em decisões e processos manuais em automações",
-};
-```
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🏋️ [GymMatch](https://github.com/JoaoVD001/Gymmatch)
-> Plataforma de matchmaking para frequentadores de academia — encontre parceiros de treino na mesma academia via QR code
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_AI-000000?style=flat-square&logoColor=white)
-
-- Entrada via QR code por academia + swipe de perfis estilo Tinder com match mútuo via trigger automático no banco
-- Chat em tempo real com Supabase Realtime, envio de fotos e bloqueio/denúncia pelo chat
-- **Lucia** — IA com memória de conversa integrada ao chat (Groq API / Llama 3.1 8B) com push notifications por inatividade
-- Sistema de planos Free / Gold / Diamond com Stripe (likes, matches ativos, desfazer ação, boost de perfil)
-- Painel admin completo: gestão de usuários, academias, denúncias, anúncios e analytics
-
----
-
-### 🍽️ [Reservê](https://github.com/JoaoVD001/Reserv-)
-> Plataforma de descoberta e reserva de mesas em restaurantes de alto padrão
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-- Feed de restaurantes em destaque com busca por GPS, CEP e filtros por culinária e localização
-- Fluxo de reserva completo com histórico de reservas ativas e controle de acesso por roles (cliente / dono / admin)
-- Sistema de pontos e recompensas com tiers progressivos: Bronze → Prata → Ouro → Diamante
-- Painel do dono com gestão de reservas em tempo real e página de detalhes com cardápio e horários
-
----
-
-### ⚔️ [Mythara RPG](https://github.com/JoaoVD001/mythara-rpg)
-> Plataforma web para gerenciamento de campanhas e fichas de personagem de RPG de mesa
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js_v5-000000?style=flat-square&logoColor=white)
-
-- Fichas de personagem completas para **Ordem Paranormal RPG** e **D&D 5e** com todos os campos do sistema
-- Criação e gerenciamento de campanhas com convite de jogadores via link único
-- Notas de sessão por campanha e dashboard com visão geral de personagens e campanhas do usuário
-- Autenticação com NextAuth v5, validação com Zod v4, ORM Prisma com SQLite (dev) e PostgreSQL/Supabase (prod)
-- Roadmap: login social Google, mesa virtual em tempo real e suporte a Tormenta 20 e Call of Cthulhu 7e
-
----
-
-### 📉 [Tech Market Pulse](https://github.com/JoaoVD001/-Tech-Market-Pulse)
-> Pipeline de dados ponta a ponta analisando demissões e contratações no setor de tecnologia (2025-2026), com foco no impacto da IA no mercado de trabalho
-
-![Python](https://img.shields.io/badge/Python_3.12-FFD43B?style=flat-square&logo=python&logoColor=306998)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
-
-- Pipeline ETL completo em Python/Pandas (extract → transform → load) carregando dados tratados num PostgreSQL orquestrado via Docker Compose
-- Dashboard interativo no Metabase com 4 análises: evolução temporal de demissões, ranking por setor, faixa salarial por cargo e proporção de demissões ligadas a IA
-- Insight: 43% das demissões analisadas têm relação com adoção de IA, enquanto cargos como AI Research Scientist lideram a faixa salarial (US$ 265 mil/ano)
-
----
-
-### 📊 Volkswagen Dashboard — Power BI
-> Dashboard analítico com 4 telas interativas cobrindo vendas, preços e popularidade das marcas do Grupo VW no Brasil (2019–2026)
-> ⚠️ *Todos os dados utilizados são fictícios e foram gerados exclusivamente para fins acadêmicos*
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square&logoColor=white)
-
-- **Visão Geral** — KPIs executivos: 357 mil unidades, R$ 54 Bi em receita, ticket médio R$ 150,68 mil, modelo líder (Polo)
-- **Elétrico vs Combustão** — comparativo regional, satisfação 9,05 vs 8,65, crescimento elétrico +48,66%, sazonalidade por modelo/mês
-- **Análise de Preços** — ranking por modelo, inflação +54,6% desde 2019, distribuição por categoria, preço × satisfação
-- **Grupo VW** — popularidade de VW, Audi, Porsche, Lamborghini e SEAT/CUPRA com índice de busca, menções sociais e engajamento digital
-
-📥 [Download do arquivo .pbix](https://1drv.ms/u/c/c8e87608aba7f421/IQDgW8XxtIPxSZnrFJFh70mpAax7Kgkl-AseldSARC46bbU?e=K4n17L)
-
----
-
-### 📊 Dashboards BI — Volkswagen Financial Services
-> Projetos desenvolvidos durante o estágio *(repositórios privados)*
-
-![Qlik](https://img.shields.io/badge/Qlik_Sense-009848?style=flat-square&logo=qlik&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
-![Informatica](https://img.shields.io/badge/Informatica_PowerCenter-FF4D00?style=flat-square&logoColor=white)
-
-- Dashboards operacionais de acompanhamento de frota e finanças no Qlik Sense
-- Automação de processos de incidentes com Power Automate
-- Análise e desenvolvimento de workflows no Informatica PowerCenter (Workflow Manager, Designer, Monitor)
-
----
-
-## 🛠️ Tech Stack
-
-**Data & BI**
-
-![Qlik](https://img.shields.io/badge/Qlik_Sense-009848?style=flat-square&logo=qlik&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
-![Informatica](https://img.shields.io/badge/Informatica_PowerCenter-FF4D00?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=306998)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Dev**
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_6-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**Automação & Infra**
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVD001&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVD001&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-  <sub>São Paulo, SP · Aberto a novas oportunidades 🚀</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E9EF7&height=120&section=footer" width="100%" />

@@ -41,54 +41,45 @@ Também desenvolvo projetos próprios **fullstack** com React, TypeScript e Supa
 
 <br>
 
-### 📌 Projetos em destaque
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🏋️ [Gymmatch](https://github.com/JoaoVD001/Gymmatch)
-
-Plataforma de matchmaking para frequentadores de academia — conecta parceiros de treino compatíveis com base em objetivos e disponibilidade.
+### 💼 Projetos em destaque
 
 <br>
 
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+**`01`** &nbsp; 📊 &nbsp; **[Tech Market Pulse](https://github.com/JoaoVD001/-Tech-Market-Pulse)**
 
-**[🔗 Ver repositório](https://github.com/JoaoVD001/Gymmatch)**
+> Pipeline de dados ponta a ponta que analisa demissões e contratações no setor de tecnologia (2025–2026), com foco no impacto da IA no mercado de trabalho.
 
-</td>
-<td width="33%" valign="top">
-
-#### 📅 [Reserv-](https://github.com/JoaoVD001/Reserv-)
-
-Sistema de reservas desenvolvido para simplificar o agendamento e o controle de horários de forma prática e organizada.
+`Python` `Data Pipeline` `ETL`
 
 <br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**`02`** &nbsp; 🏋️ &nbsp; **[Gymmatch](https://github.com/JoaoVD001/Gymmatch)**
 
-**[🔗 Ver repositório](https://github.com/JoaoVD001/Reserv-)**
+> Plataforma de matchmaking para frequentadores de academia — conecta parceiros de treino compatíveis com base em objetivos e disponibilidade.
 
-</td>
-<td width="33%" valign="top">
-
-#### 🎲 [mythara-rpg](https://github.com/JoaoVD001/mythara-rpg)
-
-Projeto de RPG desenvolvido para explorar lógica de jogo, gerenciamento de estado e construção de interfaces interativas.
+`React 19` `TypeScript` `Supabase` `Cloudflare Workers`
 
 <br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**`03`** &nbsp; 📅 &nbsp; **[Reserv-](https://github.com/JoaoVD001/Reserv-)**
 
-**[🔗 Ver repositório](https://github.com/JoaoVD001/mythara-rpg)**
+> *(descrição não cadastrada no repositório — me conta em uma frase do que se trata que eu ajusto aqui)*
 
-</td>
-</tr>
-</table>
+`TypeScript`
+
+<br>
+
+**`04`** &nbsp; 🎲 &nbsp; **[mythara-rpg](https://github.com/JoaoVD001/mythara-rpg)**
+
+> *(descrição não cadastrada no repositório — me conta em uma frase do que se trata que eu ajusto aqui)*
+
+`TypeScript`
+
+<br>
+
+**`05`** &nbsp; 🎨 &nbsp; **[NCM-Studio](https://github.com/JoaoVD001/NCM-Studio)**
+
+> *(descrição não cadastrada no repositório — me conta em uma frase do que se trata que eu ajusto aqui)*
 
 <br>
 

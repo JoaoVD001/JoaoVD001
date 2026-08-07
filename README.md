@@ -43,20 +43,6 @@ Também desenvolvo projetos próprios **fullstack** com React, TypeScript e Supa
 
 ### 📌 Projetos
 
-<div align="center">
-
-<a href="https://github.com/JoaoVD001/Gymmatch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVD001&repo=Gymmatch&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JoaoVD001/Reserv-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVD001&repo=Reserv-&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JoaoVD001/mythara-rpg">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVD001&repo=mythara-rpg&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 - 🏋️ **[Gymmatch](https://github.com/JoaoVD001/Gymmatch)** — plataforma de matchmaking para frequentadores de academia. React 19, Supabase, Cloudflare Workers
 - 📅 **[Reserv-](https://github.com/JoaoVD001/Reserv-)** — sistema de reservas em TypeScript
 - 🎲 **[mythara-rpg](https://github.com/JoaoVD001/mythara-rpg)** — projeto de RPG em TypeScript

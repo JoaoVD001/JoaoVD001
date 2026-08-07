@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=200&section=header&text=Jo%C3%A3o%20Vitor%20Delfino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20Fullstack%20%7C%20Dados%20%26%20Automa%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%" />
+# João Vitor Delfino Pereira
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Dev+Fullstack+%7C+Dados+%26+Automa%C3%A7%C3%A3o;React+%2B+TypeScript+%2B+Python+%2B+SQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Do+dado+bruto+%C3%A0+decis%C3%A3o+%F0%9F%9A%80;Transformando+processos+manuais+em+automa%C3%A7%C3%A3o;React+%2B+TypeScript+%2B+Python+%2B+SQL;Sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitordelfino2005@gmail.com)
 
 </div>
 
@@ -45,58 +50,47 @@ Também desenvolvo projetos próprios **fullstack** com React, TypeScript e Supa
 
 <br>
 
-**`01`** &nbsp; 📊 &nbsp; **[Tech Market Pulse](https://github.com/JoaoVD001/-Tech-Market-Pulse)**
+#### 📊 &nbsp; [Tech Market Pulse](https://github.com/JoaoVD001/-Tech-Market-Pulse)
 
-> Pipeline de dados ponta a ponta que analisa demissões e contratações no setor de tecnologia (2025–2026), com foco no impacto da IA no mercado de trabalho.
+Pipeline de dados ponta a ponta (ETL) que analisa demissões e contratações no setor de tecnologia (2025–2026). Extrai, transforma e carrega dados com Python/Pandas num PostgreSQL, com dashboard interativo no Metabase. Insight de destaque: 43% das demissões analisadas têm relação com adoção de IA.
 
-`Python` `Data Pipeline` `ETL`
-
-<br>
-
-**`02`** &nbsp; 🏋️ &nbsp; **[Gymmatch](https://github.com/JoaoVD001/Gymmatch)**
-
-> Plataforma de matchmaking para frequentadores de academia — conecta parceiros de treino compatíveis com base em objetivos e disponibilidade.
-
-`React 19` `TypeScript` `Supabase` `Cloudflare Workers`
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 
 <br>
 
-**`03`** &nbsp; 📅 &nbsp; **[Reserv-](https://github.com/JoaoVD001/Reserv-)**
-
-> *(descrição não cadastrada no repositório — me conta em uma frase do que se trata que eu ajusto aqui)*
-
-`TypeScript`
+---
 
 <br>
 
-**`04`** &nbsp; 🎲 &nbsp; **[mythara-rpg](https://github.com/JoaoVD001/mythara-rpg)**
+#### 🏋️ &nbsp; [Gymmatch](https://github.com/JoaoVD001/Gymmatch)
 
-> *(descrição não cadastrada no repositório — me conta em uma frase do que se trata que eu ajusto aqui)*
+Plataforma social que conecta pessoas da mesma academia — entrada via QR code, swipe de perfis, chat em tempo real, IA integrada (Lucia, via Groq/Llama) e assinaturas pagas com Stripe. Inclui painel admin completo com analytics e moderação.
 
-`TypeScript`
-
-<br>
-
-**`05`** &nbsp; 🎨 &nbsp; **[NCM-Studio](https://github.com/JoaoVD001/NCM-Studio)**
-
-> *(descrição não cadastrada no repositório — me conta em uma frase do que se trata que eu ajusto aqui)*
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 <br>
 
-### 📈 GitHub Stats
+---
 
-<div align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoVD001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVD001&theme=tokyonight&hide_border=true" width="49%" />
+#### 🍽️ &nbsp; [Reservê](https://github.com/JoaoVD001/Reserv-)
 
-</div>
+App mobile de reservas em restaurantes de alto padrão — busca por proximidade e culinária, ficha do restaurante com cardápio e avaliações, e sistema de pontos com tiers (Bronze a Diamante) para resgate de recompensas.
 
-<div align="center">
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVD001&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+<br>
 
-</div>
+---
+
+<br>
+
+#### ⚔️ &nbsp; [Mythara RPG](https://github.com/JoaoVD001/mythara-rpg)
+
+Plataforma web para jogadores e mestres gerenciarem campanhas de RPG de mesa — fichas de personagem completas (Ordem Paranormal, D&D 5e), criação de campanhas com convite por link e registro de sessões.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth.js_v5-000000?style=flat-square&logo=auth0&logoColor=white)
 
 <br>
 
@@ -109,14 +103,5 @@ Também desenvolvo projetos próprios **fullstack** com React, TypeScript e Supa
 </div>
 
 <br>
-
-### 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitordelfino2005@gmail.com)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E9EF7&height=120&section=footer" width="100%" />

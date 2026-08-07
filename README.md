@@ -41,11 +41,54 @@ Também desenvolvo projetos próprios **fullstack** com React, TypeScript e Supa
 
 <br>
 
-### 📌 Projetos
+### 📌 Projetos em destaque
 
-- 🏋️ **[Gymmatch](https://github.com/JoaoVD001/Gymmatch)** — plataforma de matchmaking para frequentadores de academia. React 19, Supabase, Cloudflare Workers
-- 📅 **[Reserv-](https://github.com/JoaoVD001/Reserv-)** — sistema de reservas em TypeScript
-- 🎲 **[mythara-rpg](https://github.com/JoaoVD001/mythara-rpg)** — projeto de RPG em TypeScript
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🏋️ [Gymmatch](https://github.com/JoaoVD001/Gymmatch)
+
+Plataforma de matchmaking para frequentadores de academia — conecta parceiros de treino compatíveis com base em objetivos e disponibilidade.
+
+<br>
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**[🔗 Ver repositório](https://github.com/JoaoVD001/Gymmatch)**
+
+</td>
+<td width="33%" valign="top">
+
+#### 📅 [Reserv-](https://github.com/JoaoVD001/Reserv-)
+
+Sistema de reservas desenvolvido para simplificar o agendamento e o controle de horários de forma prática e organizada.
+
+<br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**[🔗 Ver repositório](https://github.com/JoaoVD001/Reserv-)**
+
+</td>
+<td width="33%" valign="top">
+
+#### 🎲 [mythara-rpg](https://github.com/JoaoVD001/mythara-rpg)
+
+Projeto de RPG desenvolvido para explorar lógica de jogo, gerenciamento de estado e construção de interfaces interativas.
+
+<br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**[🔗 Ver repositório](https://github.com/JoaoVD001/mythara-rpg)**
+
+</td>
+</tr>
+</table>
 
 <br>
 
